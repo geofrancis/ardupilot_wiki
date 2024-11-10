@@ -19,7 +19,7 @@ If the LEDs never become blue or green please see the "Pre-Arm Checks" section b
 There are three ways to arm the vehicle:
 
 -  **From the transmitter sticks**.  Ensure the vehicle is in :ref:`Hold <hold-mode>`, :ref:`Manual <manual-mode>`, :ref:`Acro <acro-mode>` or :ref:`Steering <steering-mode>` mode, then center the throttle stick and hold the steering stick fully to the right for 2 seconds
--  **From a transmitter switch**.  If setup, you can use one of the **RC_xOPTION switches** that includes the arm function. See switch option "153", "154, or "160.
+-  **From a transmitter switch**.  If setup, you can use one of the **RC_xOPTION switches** that includes the arm function. See switch option "153", "154, or "160, this can be augmented by using either a pair of switches on the trasmitter or adding a locking toggle switch to prevent accidental arming.
 -  **From the Ground Station**.  Press the arm/disarm button on your ground station.  If using the Mission Planner this can be found on the Flight Data screen's action tab on the bottom left
 
 .. image:: ../../../images/armingButtonMissPlan.jpg
