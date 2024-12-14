@@ -7,7 +7,7 @@ GPS for Yaw (aka Moving Baseline)
 New RTK GPS modules, such as a pair of Ublox F9's, devices based on the Unicore UM-982 or some dual-antenna devices can be used to estimate yaw,
 in addition to providing position information.
 This removes the need for a compass which may suffer from magnetic interference from the ground or the vehicle's motors and ESCs.
-This works even if the GPSs do not have an RTK fix (RTCM data from a fixed RTK station or NTRIP server).
+This works even if the GPSs do not have RTCM data from a fixed RTK station or NTRIP server.
 
 GPSes from ArduPilot Partners that are known to work are shown on the :ref:`common-positioning-landing-page`
 
